@@ -98,3 +98,12 @@ function getColorsFromHash() {
 }
 
 setRandomColors(true);
+
+// setRandomColors(true);
+// setRandomColors(true);
+// setRandomColors(true);
+// setRandomColors(true);
+// setRandomColors(true);
+// setRandomColors(true);
+// setRandomColors(true);
+// setRandomColors(true);
